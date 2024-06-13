@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <div align="center">
   <p><em>"The only way to true security lies in the elimination of our need for security."</em></p>
   <br>
-  <img src="image.avif" alt=""The only way to true security lies in the elimination of our need for security."" style="width:50%;"/>
+  <img src="image.avif" alt=""The only way to true security lies in the elimination of our need for security."" style="width:20%;"/>
 </div>
