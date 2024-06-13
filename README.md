@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![#](https://source.unsplash.com/featured/?nature)
+<div align="center">
+  <img src="image.avif" alt=""The only way to true security lies in the elimination of our need for security."" style="width:50%;"/>
+  <p><em>"The only way to true security lies in the elimination of our need for security."</em></p>
+</div>
