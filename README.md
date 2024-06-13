@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  <p><em>"The only way to true security lies in the elimination of our need for security."</em></p>
-  <br>
-  <img src="image.jpg" alt=""The only way to true security lies in the elimination of our need for security."" style="width:90%;"/>
-</div>
